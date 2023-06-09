@@ -1,0 +1,128 @@
+.btn-pink{
+    background-color: #ff6b81;
+    color: #fff;
+    border: #fff solid;
+    border-width: 2px;
+    border-radius: 7px;
+    font-weight: 600;
+    font-size: 17px;
+    padding: 10px 24px;
+    margin-bottom: 7px;
+}
+.btn-pink:hover{
+    background-color:antiquewhite;
+    color:#ff6b81;
+    border:antiquewhite;
+    border-width: 2px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 17px;
+    padding: 10px 24px;
+    margin-bottom: 7px;
+    cursor: pointer;
+}
+.main-div{
+    background-color: #ff6b81;
+    height: 100vh;
+}
+.bg-pink{
+    background-color: #ff6b81 !important;
+ 
+}
+.header{
+    margin-top: 90px;
+    padding-bottom: 50px;
+}
+.btn-appstore{
+    color: #ff6b81 !important;
+    border: #fff solid;
+    background-color: #fff;
+    font-size: 17px;
+    padding: 10px 24px;
+    margin-bottom: 7px;
+    border-width: 2px;
+    border-radius: 5px;
+    font-weight: 600 !important;
+}
+.text-pink{
+    color: #ff6b81;
+}
+.div-second-screen{
+    background-color:#f9f9f9;
+}
+.text-grey{
+    color: #737375;
+    font-weight: 400;
+}
+.w-90{
+    width: 86.5%;
+}
+.bld{
+    font-weight: 700;
+}
+.pink-section{
+    background-color: #ff6b81;
+}
+.text-lighter{
+    color: #f3f3f7;
+}
+.w-60{
+    width: 60%;
+}
+.price{
+    font-size: 32px;
+    font-weight: bolder;
+}
+.btn-hobby{
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    display: block !important;
+    padding:10px 25% !important;
+}
+.low-bld{
+    font-weight: 600 !important;
+}
+.w-95{
+    width: 95%;
+}
+.div-third-screen{
+    background-color:#f9f9f9;
+    padding:110px 0 0 0;
+}
+.div-fourth-screen{
+
+}
+.ayro-ui{
+    background-color:#f9f9f9;
+}
+.bg-grey{
+    background-color:#f9f9f9;
+
+}
+.ayro{
+    font-size: 25px;
+}
+.icon{
+    opacity: 0.8;
+}
+footer{
+    background-color: #081828;
+}
+.footer-text{
+    color:rgb(201, 198, 198);
+}
+::placeholder{
+    color:rgb(201, 198, 198) !important;
+}
+.form-height{
+    padding: 12px 200px !important;
+}
+@media (max-width: 480px){    
+    .main-div-context{
+        text-align: center;
+    }
+    .img-section{
+        text-align: center;
+  
+    }
+}
